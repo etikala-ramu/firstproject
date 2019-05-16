@@ -1,5 +1,7 @@
 # firstproject
-Hi,This Is My First Git Project
+Hi,This Is My First Git Project,
+learning git,
+
 
 
 
